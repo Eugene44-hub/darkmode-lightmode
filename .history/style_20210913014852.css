@@ -1,0 +1,32 @@
+body {
+    height: 600px;
+    transition: all 0.5s;
+}
+
+p {
+    margin: auto;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.box {
+    background-color: black;
+    height: 30px;
+    width: 100px;
+    position: relative;
+    transition: all 0.5s;
+}
+
+.circle {
+    top: -10px;
+    background-color: grey;
+    height: 50px;
+    width: 50px;
+    box-shadow: 4px 4px 10px black;
+    border-radius: 50%;
+    position: absolute;
+    left: -6px;
+    transition: all 0.5s;
+}

@@ -1,0 +1,175 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    height: 600px;
+}
+
+p {
+    margin: auto;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.box {
+    background-color: black;
+    height: 30px;
+    width: 100px;
+    position: relative;
+    margin: 20px;
+}
+
+.circle {
+    top: -10px;
+    background-color: grey;
+    height: 50px;
+    width: 50px;
+    box-shadow: 4px 4px 10px grey;
+    border-radius: 50%;
+    position: absolute;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    height: 600px;
+}
+
+p {
+    margin: auto;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.box {
+    background-color: black;
+    height: 30px;
+    width: 100px;
+    position: relative;
+    margin: 20px;
+}
+
+.circle {
+    top: -10px;
+    background-color: grey;
+    height: 50px;
+    width: 50px;
+    box-shadow: 4px 4px 10px grey;
+    border-radius: 50%;
+    position: absolute;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    height: 600px;
+}
+
+p {
+    margin: auto;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.box {
+    background-color: black;
+    height: 30px;
+    width: 100px;
+    position: relative;
+    margin: 20px;
+}
+
+.circle {
+    top: -10px;
+    background-color: grey;
+    height: 50px;
+    width: 50px;
+    box-shadow: 4px 4px 10px grey;
+    border-radius: 50%;
+    position: absolute;
+}   * {
+          padding: 0;
+          margin: 0;
+          box-sizing: border-box;
+      }
+      
+      body {
+          display: flex;
+          height: 600px;
+      }
+      
+      p {
+          margin: auto;
+          font-size: 30px;
+          font-weight: bold;
+          text-transform: uppercase;
+      }
+      
+      .box {
+          background-color: black;
+          height: 30px;
+          width: 100px;
+          position: relative;
+          margin: 20px;
+      }
+      
+      .circle {
+          top: -10px;
+          background-color: grey;
+          height: 50px;
+          width: 50px;
+          box-shadow: 4px 4px 10px grey;
+          border-radius: 50%;
+          position: absolute;
+      }   * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            display: flex;
+            height: 600px;
+        }
+        
+        p {
+            margin: auto;
+            font-size: 30px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        
+        .box {
+            background-color: black;
+            height: 30px;
+            width: 100px;
+            position: relative;
+            margin: 20px;
+        }
+        
+        .circle {
+            top: -10px;
+            background-color: grey;
+            height: 50px;
+            width: 50px;
+            box-shadow: 4px 4px 10px grey;
+            border-radius: 50%;
+            position: absolute;
+        }
